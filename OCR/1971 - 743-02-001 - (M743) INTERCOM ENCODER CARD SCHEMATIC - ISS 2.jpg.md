@@ -1,5 +1,5 @@
 # 1971 - 743-02-001 - (M743) INTERCOM ENCODER CARD SCHEMATIC - ISS 2.jpg
-Wiki page: [M743](../../../../PAGES/M743.md)
+Wiki page: [M743](../)
 
 
 - **Year:** 1971 (title block date)
